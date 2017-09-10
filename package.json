@@ -1,0 +1,9 @@
+{
+  "name": "statusline-block-time",
+  "version": "1.0.0",
+  "description": "Block for displaying time in statusline",
+  "main": "index.js",
+  "repository": "https://github.com/statusline/statusline-block-time",
+  "author": "nemanjan00",
+  "license": "MIT"
+}
